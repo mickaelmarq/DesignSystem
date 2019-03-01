@@ -1,3 +1,4 @@
-# Summary
+# Table of contents
 
-## Use headings to create page groups like this one
+* [Initial page](README.md)
+
